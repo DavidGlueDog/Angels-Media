@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- Hidden preheader -->
 <span style="display:none; font-size:1px; color:#23272a; line-height:1px; max-height:0; max-width:0; opacity:0; overflow:hidden;">
   Agency Express now integrated with Street and Apex27 via GlueDog.
@@ -214,3 +215,4 @@
 
         <!-- Bottom gradient -->
         <tr><td height="15" style="background:linear-gradient(90deg,#00ddb3,#019d91); font-size:0; line-height:0
+</html>
