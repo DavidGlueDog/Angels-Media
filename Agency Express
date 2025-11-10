@@ -1,16 +1,15 @@
-<!DOCTYPE html>
 <!-- Hidden preheader -->
 <span style="display:none; font-size:1px; color:#23272a; line-height:1px; max-height:0; max-width:0; opacity:0; overflow:hidden;">
   Agency Express now integrated with Street and Apex27 via GlueDog.
 </span>
 
 <!-- Outer wrapper -->
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#23272a" style="border-collapse:collapse; margin:0; padding:0;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF" style="border-collapse:collapse; margin:0; padding:0;">
   <tr>
     <td align="center">
 
       <!-- 600px container -->
-      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" style="background:#23272a; color:#efefef; font-family:Arial, Helvetica, sans-serif; box-shadow:0 8px 28px rgba(0,0,0,0.35);">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" style="max-width:600px; width:100%; background:#23272a; color:#efefef; font-family:Arial, Helvetica, sans-serif; box-shadow:0 8px 28px rgba(0,0,0,0.35); margin:0 auto;">
 
         <!-- Top gradient bar -->
         <tr><td height="15" style="background:linear-gradient(90deg,#00ddb3,#019d91); font-size:0; line-height:0;">&nbsp;</td></tr>
@@ -31,7 +30,7 @@
               <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/0599c070-fb29-a9b7-4f12-ca61df9fc815.jpg"
                    width="600"
                    alt="GlueDog Integration Hub hero"
-                   style="display:block; border:0; height:auto; line-height:0; font-size:0; margin:0;">
+                   style="display:block; border:0; height:auto; width:100%; margin:0; line-height:0; font-size:0;">
             </a>
           </td>
         </tr>
@@ -40,10 +39,10 @@
         <tr>
           <td align="center" style="padding:0; line-height:0; font-size:0;">
             <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/99f3c437-fcd8-de2f-8983-f95aa36b6981.jpg"
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/04af98b1-c919-08a9-b6f1-fc13e0f9f5db.jpg"
                    width="500"
                    alt="SignMaster3 integration"
-                   style="display:block; border:0; width:100%; max-width:500px; height:auto; line-height:0; font-size:0; margin:0;">
+                   style="display:block; border:0; width:100%; max-width:500px; height:auto; margin:0;">
             </a>
           </td>
         </tr>
@@ -51,23 +50,23 @@
         <!-- Intro -->
         <tr>
           <td align="center" style="padding:30px;">
-            <h1 style="margin:0 0 10px; font-size:30px; line-height:1.1; font-weight:800; color:#efefef;">SignMaster3 by Agency Express, Connected by GlueDog</h1>
+            <h1 style="margin:0 0 10px; font-size:30px; line-height:1.1; font-weight:800; color:#efefef;">Agency Express has partnered with GlueDog to deliver seamless CRM integrations</h1>
             <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">
-              Agency Express’ industry-leading board management system, <strong>SignMaster3</strong>, is now integrated with <strong>Apex27</strong> and <strong>Street</strong>, powered by <strong>GlueDog</strong>.
+              The UK’s leading board management provider, <strong>Agency Express</strong>, has teamed up with <strong>GlueDog</strong> to make SignMaster3 available directly within your CRM - no more double entry, missed jobs, or manual tracking.
             </p>
             <p style="margin:0 0 25px; font-size:16px; line-height:1.6; color:#efefef;">
-              From your CRM dashboard, you can now send board requests, monitor progress, and manage installations effortlessly - all in one place.
+              The partnership launches with <strong>Street</strong> and <strong>Apex27</strong> integrations - with more CRMs coming soon.
             </p>
 
             <!-- Buttons -->
             <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Street&body=Please%20contact%20me%20about%20connecting%20Street%20to%20SignMaster3."
                target="_blank" rel="noopener"
-               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:0 8px 10px 0;">
+               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; margin:0 8px 10px 0;">
                Connect me to Street
             </a>
             <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Apex27&body=Please%20contact%20me%20about%20connecting%20Apex27%20to%20SignMaster3."
                target="_blank" rel="noopener"
-               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin-top:10px;">
+               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; margin-top:10px;">
                Connect me to Apex27
             </a>
           </td>
@@ -80,11 +79,12 @@
               <table role="presentation" width="100%" style="background:#393d3f; border:2px solid #4E5255; border-radius:24px;">
                 <tr>
                   <td style="padding:36px 24px; text-align:center;">
-                    <h2 style="margin:0 0 10px; font-size:24px; font-weight:700; color:#efefef;">How It Works</h2>
-                    <p style="margin:0; font-size:16px; line-height:1.6; color:#efefef;">
-                      🏠 Update a property in your CRM → Board requests automatically sync with <strong>SignMaster3</strong>.<br>
-                      ⚡ Trigger installations, changes and removals in seconds.<br>
-                      📊 Status updates flow straight back into your CRM - no manual tracking.
+                    <h2 style="margin:0 0 14px; font-size:24px; font-weight:700; color:#efefef;">How It Works</h2>
+                    <p style="margin:0 auto; font-size:16px; line-height:1.6; color:#efefef; text-align:center; max-width:460px;">
+                      <span style="color:#00ddb3;">✓</span> Order a board from a property in your CRM in just a couple of clicks - board requests automatically sync with <strong>SignMaster3</strong>.<br>
+                      <span style="color:#00ddb3;">✓</span> Board status automatically updates with property changes.<br>
+                      <span style="color:#00ddb3;">✓</span> Automatic board collections on completion and tenancy start dates.<br>
+                      <span style="color:#00ddb3;">✓</span> Monitor your boards directly from your CRM.
                     </p>
                   </td>
                 </tr>
@@ -96,7 +96,7 @@
         <!-- Chrome Extension image -->
         <tr>
           <td align="center" style="padding:0;">
-            <a href="https://gluedog.ai/front/chrome-extension" target="_blank" rel="noopener">
+            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
               <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/03403338-624b-ebf1-f30d-152bcaffc7bc.jpg" width="600" alt="GlueDog Chrome Extension" style="display:block; width:100%; border:0; height:auto;">
             </a>
           </td>
@@ -123,13 +123,13 @@
               <table role="presentation" width="100%" style="background:#393d3f; border:2px solid #4E5255; border-radius:24px;">
                 <tr>
                   <td style="padding:36px 24px; text-align:center;">
-                    <h2 style="margin:0 0 10px; font-size:24px; font-weight:700; color:#efefef;">Why Agents Love It</h2>
-                    <ul style="margin:0; padding:0; list-style:none; color:#efefef; font-size:16px; line-height:1.7;">
-                      <li>✅ No double entry between CRM and supplier</li>
-                      <li>✅ Saves you money by reducing lost boards and wasted site visits</li>
-                      <li>✅ Faster listing-to-market turnaround</li>
-                      <li>✅ Keeps your CRM data live and accurate</li>
-                    </ul>
+                    <h2 style="margin:0 0 14px; font-size:24px; font-weight:700; color:#efefef;">Why Agents Love It</h2>
+                    <p style="margin:0 auto; font-size:16px; line-height:1.6; color:#efefef; text-align:center; max-width:460px;">
+                      <span style="color:#00ddb3;">✓</span> No double entry between CRM and supplier.<br>
+                      <span style="color:#00ddb3;">✓</span> Saves money by reducing lost boards and wasted site visits.<br>
+                      <span style="color:#00ddb3;">✓</span> Faster listing-to-market turnaround.<br>
+                      <span style="color:#00ddb3;">✓</span> Keeps your CRM data live and accurate.
+                    </p>
                   </td>
                 </tr>
               </table>
@@ -137,11 +137,16 @@
           </td>
         </tr>
 
-        <!-- Extra buttons -->
+        <!-- New final CTA -->
         <tr>
-          <td align="center" style="padding:10px 30px 40px;">
-            <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Street&body=Please%20contact%20me%20about%20connecting%20Street%20to%20SignMaster3." target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:0 8px 10px 0;">Connect me to Street</a>
-            <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Apex27&body=Please%20contact%20me%20about%20connecting%20Apex27%20to%20SignMaster3." target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin-top:10px;">Connect me to Apex27</a>
+          <td align="center" style="padding:40px 30px;">
+            <h2 style="margin:0 0 15px; font-size:30px; font-weight:700; color:#efefef;">Want your CRM integrated with Agency Express?</h2>
+            <p style="margin:0 0 25px; font-size:16px; line-height:1.6; color:#efefef;">Let us know which CRM you use and we’ll keep you updated as new integrations launch.</p>
+            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392#register"
+               target="_blank" rel="noopener"
+               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:6px; padding:14px 28px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">
+               Register your CRM
+            </a>
           </td>
         </tr>
 
@@ -214,5 +219,4 @@
         </tr>
 
         <!-- Bottom gradient -->
-        <tr><td height="15" style="background:linear-gradient(90deg,#00ddb3,#019d91); font-size:0; line-height:0
-</html>
+        <tr><td height="15" style="background:linear-gradient(90deg,#00ddb3,#019d91); font-size:0; line-height:0;">&nbsp;</td></tr>
