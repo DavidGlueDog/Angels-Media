@@ -1,160 +1,329 @@
 <!-- Hidden preheader -->
 <span style="display:none; font-size:1px; color:#23272a; line-height:1px; max-height:0; max-width:0; opacity:0; overflow:hidden;">
-  Agency Express now integrated with Street and Apex27 via GlueDog.
+  Seamless CRM-to-supplier integrations, now all in one place with GlueDog.
 </span>
 
 <!-- Outer wrapper -->
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF" style="border-collapse:collapse; margin:0; padding:0;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#23272a" style="border-collapse:collapse; margin:0; padding:0;">
   <tr>
     <td align="center">
 
       <!-- 600px container -->
-      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" style="max-width:600px; width:100%; background:#23272a; color:#efefef; font-family:Arial, Helvetica, sans-serif; box-shadow:0 8px 28px rgba(0,0,0,0.35); margin:0 auto;">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" style="background:#23272a; color:#efefef; font-family:Arial, Helvetica, sans-serif; box-shadow:0 8px 28px rgba(0,0,0,0.35);">
 
         <!-- Top gradient bar -->
         <tr><td height="15" style="background:linear-gradient(90deg,#00ddb3,#019d91); font-size:0; line-height:0;">&nbsp;</td></tr>
 
-        <!-- Logo -->
-        <tr>
-          <td align="center" style="padding:30px 30px 0;">
-            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/0455e747-e2d5-d239-b739-481a50911f59.jpg" width="300" alt="GlueDog logo" style="display:block; border:0; width:100%; max-width:300px; height:auto;">
-            </a>
-          </td>
-        </tr>
-
         <!-- Hero -->
         <tr>
-          <td align="center" style="padding:0; line-height:0; font-size:0;">
-            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/0599c070-fb29-a9b7-4f12-ca61df9fc815.jpg"
-                   width="600"
-                   alt="GlueDog Integration Hub hero"
-                   style="display:block; border:0; height:auto; width:100%; margin:0; line-height:0; font-size:0;">
+          <td align="center">
+            <a href="https://gluedog.ai" target="_blank" rel="noopener">
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/d1cb116e-8be4-4ad6-7f09-de341b582e47.jpg" width="600" height="auto" alt="GlueDog Integration Hub hero" style="display:block; width:100%; border:0; height:auto;">
             </a>
           </td>
         </tr>
 
-        <!-- Image below hero -->
+
+        <!-- ========= SUPPLIER BLOCKS ========= -->
+
+        <!-- Integrations section -->
         <tr>
-          <td align="center" style="padding:0; line-height:0; font-size:0;">
-            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/04af98b1-c919-08a9-b6f1-fc13e0f9f5db.jpg"
-                   width="500"
-                   alt="SignMaster3 integration"
-                   style="display:block; border:0; width:100%; max-width:500px; height:auto; margin:0;">
+          <td align="center" style="padding:0px 30px 50px;background-color:#23272a;">
+            <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">Today marks a major milestone for connected PropTech, as iamproperty officially joins GlueDog - launching with 10 new live supplier integrations for estate and letting agents.<br/> <br/>From board management and compliance, to utilities, lead capture, and tenant services, agents can now connect their preferred suppliers with just a few clicks - all powered by GlueDog.</p>
+            <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">Get my systems connected!</a>
+          </td>
+        </tr>
+
+        <!-- ========= SUPPLIER BLOCKS ========= -->
+
+        <!-- Today, we can connect iamproperty agents to... -->
+        <tr>
+          <td align="center" style="padding:50px 20px 10px;background-color:#1c1f22;">
+            <h1 style="margin:0 0 10px; font-size:36px; line-height:1.1; font-weight:800; color:#efefef;">Today, we can connect iamproperty agents to...</h1>
+          </td>
+        </tr>
+
+        <!-- 10 Suppliers -->
+        <tr>
+          <td align="center" style="padding:10px 40px 30px;background-color:#1c1f22;">
+            <a href="https://gluedog.ai/front/suppliers" target="_blank" rel="noopener">
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/1a16334f-b0b8-2087-2c71-228ff92edd17.jpg" width="600" height="auto" alt="Integrations overview" style="display:block; width:100%; border:0; height:auto;">
             </a>
           </td>
         </tr>
 
-        <!-- Intro -->
+        <!-- SignMaster3 by Agency Express -->
         <tr>
-          <td align="center" style="padding:30px;">
-            <h1 style="margin:0 0 10px; font-size:30px; line-height:1.1; font-weight:800; color:#efefef;">Agency Express has partnered with GlueDog to deliver seamless CRM integrations</h1>
-            <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">
-              The UK’s leading board management provider, <strong>Agency Express</strong>, has teamed up with <strong>GlueDog</strong> to make SignMaster3 available directly within your CRM - no more double entry, missed jobs, or manual tracking.
-            </p>
-            <p style="margin:0 0 25px; font-size:16px; line-height:1.6; color:#efefef;">
-              The partnership launches with <strong>Street</strong> and <strong>Apex27</strong> integrations - with more CRMs coming soon.
-            </p>
-
-            <!-- Buttons -->
-            <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Street&body=Please%20contact%20me%20about%20connecting%20Street%20to%20SignMaster3."
-               target="_blank" rel="noopener"
-               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; margin:0 8px 10px 0;">
-               Connect me to Street
-            </a>
-            <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Apex27&body=Please%20contact%20me%20about%20connecting%20Apex27%20to%20SignMaster3."
-               target="_blank" rel="noopener"
-               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; margin-top:10px;">
-               Connect me to Apex27
-            </a>
-          </td>
-        </tr>
-
-        <!-- How It Works -->
-        <tr>
-          <td align="center" style="padding:30px;">
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
             <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
-              <table role="presentation" width="100%" style="background:#393d3f; border:2px solid #4E5255; border-radius:24px;">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
                 <tr>
-                  <td style="padding:36px 24px; text-align:center;">
-                    <h2 style="margin:0 0 14px; font-size:24px; font-weight:700; color:#efefef;">How It Works</h2>
-                    <p style="margin:0 auto; font-size:16px; line-height:1.6; color:#efefef; text-align:center; max-width:460px;">
-                      <span style="color:#00ddb3;">✓</span> Order a board from a property in your CRM in just a couple of clicks - board requests automatically sync with <strong>SignMaster3</strong>.<br>
-                      <span style="color:#00ddb3;">✓</span> Board status automatically updates with property changes.<br>
-                      <span style="color:#00ddb3;">✓</span> Automatic board collections on completion and tenancy start dates.<br>
-                      <span style="color:#00ddb3;">✓</span> Monitor your boards directly from your CRM.
-                    </p>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/42dc7332-0b5e-e5cd-df46-36e3ec645610.jpg" width="400" height="auto" alt="SignMaster3 by Agency Express" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">SignMaster3 by Agency Express</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Powered by GlueDog, SignMaster3 integrates seamlessly with iamproperty, automating daily board management from instruction through to collection - cutting admin and boosting efficiency.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
                   </td>
                 </tr>
               </table>
             </div>
           </td>
         </tr>
+
+        <!-- flatfair -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/68529497c1903b5f1601553e" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/a953d1b6-88b6-b2d7-0762-591dcc4cfcf3.jpg" width="400" height="auto" alt="flatfair" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">flatfair</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">flatfair provides deposit alternative, guarantor and protection solutions for letting agents; reducing tenant upfront costs, cutting admin, speeding up lets, and creating new revenue opportunities.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- Global 4 -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/685294bcc1903b5f16015550" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/f4175554-cbdd-f2dd-313c-51b1cd5aad6a.jpg" width="400" height="auto" alt="Global 4" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">Global 4</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Global 4 is a long-standing, fast-evolving supplier of telephony, connectivity and IT services to the estate agency sector. It offers exclusively integrated telephony services that are backed by knowledgeable, consultative personnel that are here to support you.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- Kamma -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/66b36d08a97a66db94e1c9c4" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/e18ff5d9-e139-f4c3-7218-59542c01b8c7.jpg" width="400" height="auto" alt="Kamma" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">Kamma</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Kamma is a UK proptech platform that automates property licensing compliance, monitoring 500+ schemes in real time to keep portfolios compliant, reduce risk and save time.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- Made Snappy 360 -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/66930416f878a70955d70b2d" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/c31ed19c-568a-32d8-13ee-35bf519ddb36.jpg" width="400" height="auto" alt="Made Snappy 360" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">Made Snappy 360</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Made Snappy 360 is an all-in-one listing solution for estate agents, creating accurate floor plans, branded virtual tours and professionally edited 2D photos from one image per room, plus other powerful marketing tools.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- Muuvo -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/669783f3f878a70955d70f87" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/4079b04b-22f5-0f18-511b-a6168db6900f.jpg" width="400" height="auto" alt="Muuvo" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">Muuvo</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Multi-award-winning utility management powered by cutting-edge technology, delivering real-time council and utility data, reducing or eliminating void energy costs, while supporting tenants with seamless bill setup, exclusive offers, and commission opportunities for agents.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- Notify by One Utility Bill -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/6899f09324d4219309cde547" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/38859516-37c5-c8df-b468-5b59ea371e7a.jpg" width="400" height="auto" alt="Notify by One Utility Bill" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">Notify by One Utility Bill</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Automate your lettings utility registrations with Notify by One Utility Bill. Our seamless integration works in the background, saving you time while securing guaranteed commission on every property. Earn effortlessly today.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- TDS Custodial -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/68cc1f45ceb8111d00acfaa8" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/dc5e5eb0-07cb-3ed6-0ea2-a000994e23ff.jpg" width="400" height="auto" alt="TDS Custodial" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">TDS Custodial</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">REPLACE TEXT!</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- View Agents -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/68529468c1903b5f16015528" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/b67abe7d-b4af-52ac-d5f7-8ac34fbc52ec.jpg" width="400" height="auto" alt="View Agents" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">View Agents</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">View Agents helps estate agents collect and manage online reviews, automate SMS invitations, generate AI replies, benchmark competitors, track reputation data, and promote star ratings to win more instructions and build long-term trust.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
+        <!-- Visitor Chat -->
+        <tr>
+          <td align="center" style="padding:20px;background-color:#1c1f22;">
+            <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
+              <table role="presentation" width="100%" style="background:#2E3235; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
+                <tr>
+                  <td style="padding:24px; text-align:center;">
+                    <a href="https://gluedog.ai/front/suppliers/66f17199bacc79cd341faa15" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/2ce54528-89e8-029a-c6c4-a71d60f3667f.jpg" width="400" height="auto" alt="Visitor Chat" style="display:block; margin:0 auto 10px; border:0;">
+                    </a>
+                    <h2 style="margin:0 0 8px; font-size:20px; font-weight:800; color:#efefef;">Visitor Chat</h2>
+                    <p style="margin:0 0 16px; font-size:15px; line-height:1.7; color:#efefef;">Visitor Chat helps estate agents win more instructions with 24/7 live chat, proactive outbound sales, and two-way messaging, capturing qualified leads with seamless integration with your CRM for measurable ROI.</p>
+                    <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:12px 18px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">I want this Integration!</a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+
 
         <!-- Chrome Extension image -->
         <tr>
-          <td align="center" style="padding:0;">
-            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/03403338-624b-ebf1-f30d-152bcaffc7bc.jpg" width="600" alt="GlueDog Chrome Extension" style="display:block; width:100%; border:0; height:auto;">
+          <td align="center" style="padding:30px 0px 0px;background-color:#1c1f22;">
+            <a href="https://gluedog.ai/front/chrome-extension" target="_blank" rel="noopener">
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/a18f46fa-8385-24de-6edf-504c60994b63.jpg" width="600" height="auto" alt="GlueDog Chrome Extension" style="display:block; width:100%; border:0; height:auto;">
             </a>
           </td>
         </tr>
 
-        <!-- Chrome Extension Section -->
+        <!-- Chrome Extension section -->
         <tr>
-          <td align="center" style="padding:30px;">
-            <h1 style="margin:0 0 10px; font-size:30px; line-height:1.1; font-weight:800; color:#efefef;">Board Management Directly From Your CRM Dashboard</h1>
-            <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">
-              With the <strong>GlueDog Chrome Extension</strong>, you can send board requests, monitor progress, and manage installations effortlessly - all in one place. It’s a new era of board management: automated, intuitive, and fully connected.
-            </p>
-
-            <!-- Buttons -->
-            <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Street&body=Please%20contact%20me%20about%20connecting%20Street%20to%20SignMaster3." target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:0 8px 10px 0;">Connect me to Street</a>
-            <a href="mailto:victoria.lambden@gluedog.ai;%20quote@agencyexpress.co.uk?subject=Agency%20Express%20X%20Apex27&body=Please%20contact%20me%20about%20connecting%20Apex27%20to%20SignMaster3." target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin-top:10px;">Connect me to Apex27</a>
+          <td align="center" style="padding:30px 30px 50px;background-color:#1c1f22;">
+            <h1 style="margin:0 0 10px; font-size:36px; line-height:1.1; font-weight:800; color:#efefef;">Everything an Agent Needs, Right Inside Their CRM</h1>
+            <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">The GlueDog Chrome Extension brings supplier tools and data straight into CRMs – putting everything agents need in one place. Simple. Fast. Connected – that’s the GlueDog way.</p>
+            <a href="https://gluedog.ai/front/chrome-extension" target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">See How Agents Use GlueDog</a>
           </td>
         </tr>
 
-        <!-- Why Agents Love It -->
+
+        <!-- Intro -->
         <tr>
-          <td align="center" style="padding:30px;">
+          <td align="center" style="padding:50px 30px 50px;">
+            <h1 style="margin:0 0 10px; font-size:42px; line-height:1.1; font-weight:800; color:#efefef;">One Connection,<br>Every Integration</h1>
+            <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">GlueDog connects the industry’s CRMs to the suppliers agents use every day – all in one place. No more switching between systems, re-entering data, or uploading the same documents again and again.</p>
+            <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">Connect Your Product with GlueDog</a>
+          </td>
+        </tr>
+
+        <!-- Integrations image -->
+        <tr>
+          <td align="center" style="padding:30px 0px 0px;background-color:#1c1f22;">
+            <a href="https://gluedog.ai/front/suppliers" target="_blank" rel="noopener">
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/4bf62b8a-6b4e-0d86-e663-1d5477f81bfe.jpg" width="600" height="auto" alt="Integrations overview" style="display:block; width:100%; border:0; height:auto;">
+            </a>
+          </td>
+        </tr>
+
+        <!-- Integrations section -->
+        <tr>
+          <td align="center" style="padding:30px 30px 50px;background-color:#1c1f22;">
+            <h1 style="margin:0 0 10px; font-size:36px; line-height:1.1; font-weight:800; color:#efefef;">20+ CRMs, 200+ Suppliers</h1>
+            <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">We’re proud to be partnering with some of the most innovative names in the property industry - including 20+ CRMs and 200+ suppliers who’ve already connected or agreed to connect with GlueDog!</p>
+            <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener" style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">Join Our Growing Supplier Network</a>
+          </td>
+        </tr>
+
+        <!-- CRM box -->
+        <tr>
+          <td align="center" style="padding:50px 30px 20px;">
             <div style="max-width:540px; margin:0 auto; border-radius:24px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.35);">
-              <table role="presentation" width="100%" style="background:#393d3f; border:2px solid #4E5255; border-radius:24px;">
+              <table role="presentation" width="100%" style="background:#393d3f; border:2px solid #4E5255; border-radius:24px; color:#efefef;">
                 <tr>
                   <td style="padding:36px 24px; text-align:center;">
-                    <h2 style="margin:0 0 14px; font-size:24px; font-weight:700; color:#efefef;">Why Agents Love It</h2>
-                    <p style="margin:0 auto; font-size:16px; line-height:1.6; color:#efefef; text-align:center; max-width:460px;">
-                      <span style="color:#00ddb3;">✓</span> No double entry between CRM and supplier.<br>
-                      <span style="color:#00ddb3;">✓</span> Saves money by reducing lost boards and wasted site visits.<br>
-                      <span style="color:#00ddb3;">✓</span> Faster listing-to-market turnaround.<br>
-                      <span style="color:#00ddb3;">✓</span> Keeps your CRM data live and accurate.
-                    </p>
+                    <a href="https://gluedog.ai/front/crms" target="_blank" rel="noopener">
+                      <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/a0463d54-b813-9018-370d-e014c21e222a.jpg" width="540" height="auto" alt="Supported CRMs" style="display:block; border:0; width:100%; max-width:540px; height:auto;">
+                    </a>
+                    <h2 style="margin:30px 0 8px; font-size:28px; font-weight:800; color:#efefef;">Not an iamproperty user? <br />No problem!</h2>
+                    <p style="margin:0 0 22px; font-size:16px; line-height:1.6; color:#efefef;">These CRMs are already live with GlueDog, so you can get connected today as well. </p>
+                    <a href="https://gluedog.ai/front/crms" target="_blank" rel="noopener" style="display:inline-block; margin-bottom:10px; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:5px; padding:13px 22px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">See which CRMs are coming soon!</a>
                   </td>
                 </tr>
               </table>
             </div>
-          </td>
-        </tr>
-
-        <!-- New final CTA -->
-        <tr>
-          <td align="center" style="padding:40px 30px;">
-            <h2 style="margin:0 0 15px; font-size:30px; font-weight:700; color:#efefef;">Want your CRM integrated with Agency Express?</h2>
-            <p style="margin:0 0 25px; font-size:16px; line-height:1.6; color:#efefef;">Let us know which CRM you use and we’ll keep you updated as new integrations launch.</p>
-            <a href="https://gluedog.ai/front/suppliers/686e6d54b78b9e74a573c392#register"
-               target="_blank" rel="noopener"
-               style="display:inline-block; background:linear-gradient(90deg,#00ddb3,#019d91); border-radius:6px; padding:14px 28px; font-size:16px; font-weight:bold; color:#efefef; text-decoration:none; box-shadow:0 4px 10px rgba(0,0,0,0.3);">
-               Register your CRM
-            </a>
           </td>
         </tr>
 
         <!-- Footer full-width image -->
         <tr>
-          <td align="center" style="padding:0;">
-            <a href="https://gluedog.ai" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/8e616ff9-496d-4a3d-556f-7a718a278277.jpg" width="600" alt="Automation benefits with GlueDog" style="display:block; width:100%; border:0; height:auto;">
+          <td align="center">
+            <a href="https://gluedog.ai/front/getstarted" target="_blank" rel="noopener">
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/02de78a3-f05d-7bce-3559-7bfe5babee1c.jpg" width="600" height="auto" alt="Automation benefits with GlueDog" style="display:block; width:100%; border:0; height:auto;">
             </a>
           </td>
         </tr>
@@ -163,7 +332,7 @@
         <tr>
           <td align="center" style="padding:36px 30px 6px;">
             <a href="https://gluedog.ai/" target="_blank" rel="noopener">
-              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/b3da006e-7d1c-e082-0845-9f479666d7d0.png" width="250" alt="GlueDog logo" style="display:block; border:0; width:100%; max-width:250px; height:auto;">
+              <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/b3da006e-7d1c-e082-0845-9f479666d7d0.png" width="250" height="auto" alt="GlueDog logo" style="display:block; border:0; width:100%; max-width:250px; height:auto;">
             </a>
           </td>
         </tr>
@@ -171,21 +340,21 @@
         <!-- Contact info -->
         <tr>
           <td align="center" style="padding:12px 20px 6px;">
-            <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
               <tr valign="middle">
                 <td align="center" style="padding:0 12px;">
                   <a href="https://gluedog.ai" target="_blank" rel="noopener" style="text-decoration:none; color:#efefef; font-size:14px;">
-                    <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/b772d75f-d5fe-fe04-fd66-9c4f93e8a98e.png" width="18" alt="Website" style="vertical-align:middle; border:0; margin-right:6px;"> gluedog.ai
+                    <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/b772d75f-d5fe-fe04-fd66-9c4f93e8a98e.png" width="18" height="18" alt="Website" style="vertical-align:middle; border:0; margin-right:6px;"> gluedog.ai
                   </a>
                 </td>
                 <td align="center" style="padding:0 12px;">
                   <a href="mailto:contact@gluedog.ai" target="_blank" rel="noopener" style="text-decoration:none; color:#efefef; font-size:14px;">
-                    <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/42ce31d8-8fd1-bd92-eb86-c9b506e88379.png" width="18" alt="Email" style="vertical-align:middle; border:0; margin-right:6px;"> contact@gluedog.ai
+                    <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/42ce31d8-8fd1-bd92-eb86-c9b506e88379.png" width="18" height="18" alt="Email" style="vertical-align:middle; border:0; margin-right:6px;"> contact@gluedog.ai
                   </a>
                 </td>
                 <td align="center" style="padding:0 12px;">
                   <a href="tel:+441752922039" target="_blank" rel="noopener" style="text-decoration:none; color:#efefef; font-size:14px;">
-                    <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/d2c42dd8-e747-049f-79c1-766e1e0df3cc.png" width="18" alt="Phone" style="vertical-align:middle; border:0; margin-right:6px;"> 01752 922039
+                    <img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/d2c42dd8-e747-049f-79c1-766e1e0df3cc.png" width="18" height="18" alt="Phone" style="vertical-align:middle; border:0; margin-right:6px;"> 01752 922039
                   </a>
                 </td>
               </tr>
@@ -198,11 +367,11 @@
           <td align="center" style="padding:8px 20px 12px;">
             <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
               <tr valign="middle">
-                <td style="padding:0 6px;"><a href="https://www.facebook.com/gluedog" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/1d46281f-2797-593b-221a-1830b8e21da1.png" width="20" alt="Facebook" style="display:block; border:0;"></a></td>
-                <td style="padding:0 6px;"><a href="https://www.instagram.com/gluedog.ai" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/c532c9d6-eecd-b434-ba18-7b8150a3f4a4.png" width="20" alt="Instagram" style="display:block; border:0;"></a></td>
-                <td style="padding:0 6px;"><a href="https://www.linkedin.com/company/gluedog" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/99ce3332-2257-4d1f-f8aa-1fd246cefee8.png" width="20" alt="LinkedIn" style="display:block; border:0;"></a></td>
-                <td style="padding:0 6px;"><a href="https://www.tiktok.com/@gluedog.ai" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/49354825-b098-09b9-1780-7f71ccd2565f.png" width="20" alt="TikTok" style="display:block; border:0;"></a></td>
-                <td style="padding:0 6px;"><a href="https://www.youtube.com/@GlueDogPropTech" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/7c34bfbd-f831-7aab-668b-6d392af365f6.png" width="20" alt="YouTube" style="display:block; border:0;"></a></td>
+                <td style="padding:0 6px;"><a href="https://www.facebook.com/gluedog" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/1d46281f-2797-593b-221a-1830b8e21da1.png" width="20" height="20" alt="Facebook" style="display:block; border:0;"></a></td>
+                <td style="padding:0 6px;"><a href="https://www.instagram.com/gluedog.ai" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/c532c9d6-eecd-b434-ba18-7b8150a3f4a4.png" width="20" height="20" alt="Instagram" style="display:block; border:0;"></a></td>
+                <td style="padding:0 6px;"><a href="https://www.linkedin.com/company/gluedog" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/99ce3332-2257-4d1f-f8aa-1fd246cefee8.png" width="20" height="20" alt="LinkedIn" style="display:block; border:0;"></a></td>
+                <td style="padding:0 6px;"><a href="https://www.tiktok.com/@gluedog.ai" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/49354825-b098-09b9-1780-7f71ccd2565f.png" width="20" height="20" alt="TikTok" style="display:block; border:0;"></a></td>
+                <td style="padding:0 6px;"><a href="https://www.youtube.com/@GlueDogPropTech" target="_blank" rel="noopener"><img src="https://mcusercontent.com/da1771f1f8f95b98c1475e8c6/images/7c34bfbd-f831-7aab-668b-6d392af365f6.png" width="20" height="20" alt="YouTube" style="display:block; border:0;"></a></td>
               </tr>
             </table>
           </td>
@@ -212,7 +381,7 @@
         <tr>
           <td align="center" style="padding:12px 20px 16px;">
             <p style="margin:0; font-size:12px; line-height:1.6; color:#cfcfcf;">
-              &copy; 2025 GlueDog Limited – All Rights Reserved.<br>
+              &copy; 2026 GlueDog Limited – All Rights Reserved.<br>
               Company Number 15448971 | VAT Number 462334308
             </p>
           </td>
@@ -220,3 +389,8 @@
 
         <!-- Bottom gradient -->
         <tr><td height="15" style="background:linear-gradient(90deg,#00ddb3,#019d91); font-size:0; line-height:0;">&nbsp;</td></tr>
+
+      </table><!-- /600px -->
+    </td>
+  </tr>
+</table><!-- /Outer -->
